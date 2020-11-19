@@ -8,6 +8,9 @@ import {
 import { makeStyles } from '@material-ui/core/styles';
 
 const useStyles = makeStyles({
+  "App-header": {
+    fontSize: 'calc(10px + 2vmin)'
+  },
   link: {
     color: '#61dafb'
   }
